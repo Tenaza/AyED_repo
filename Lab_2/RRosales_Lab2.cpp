@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Laboratorio_1" << std::endl;
+    std::cout << "Laboratorio_2" << std::endl;
     return 0;
 }
